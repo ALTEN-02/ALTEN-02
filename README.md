@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/Bwizabusa/Bwizabusa/blob/main/ATEH-banner)
+![Banner](https://github.com/Bwizabusa/Web-development-learning-resources/blob/main/ATEH-banner.png))
 
 # 🌍 African Tech Empowerment Hub  
 
