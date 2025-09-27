@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/your-username/your-username/blob/main/banner.png)
+![Banner](https://github.com/Bwizabusa/Bwizabusa/blob/main/ATEH-banner)
 
 # 🌍 African Tech Empowerment Hub  
 
@@ -23,16 +23,16 @@
 ## 📌 Featured Repositories  
 Here are some of the projects we’re building together:  
 
-- [📘 Learning Resources](https://github.com/your-username/learning-resources)  
+- [📘 Learning Resources](https://github.com/Bwizabusa/learning-resources)  
   Articles, tutorials, and stories to help anyone start their tech journey — with a strong focus on web development and beyond.  
 
-- [🤝 Community Projects](https://github.com/your-username/community-projects)  
+- [🤝 Community Projects](https://github.com/Bwizabusa/community-projects)  
   Collaborative projects built with and for learners.  
 
-- [🚀 Career Growth Tools](https://github.com/your-username/career-growth-tools)  
+- [🚀 Career Growth Tools](https://github.com/Bwizabusa/career-growth-tools)  
   Resources to prepare for jobs, interviews, and freelancing.  
 
-- [🌍 African Tech Empowerment Hub Platform](https://github.com/your-username/african-tech-empowerment-hub)  
+- [🌍 African Tech Empowerment Hub Platform](https://github.com/Bwizabusa/african-tech-empowerment-hub)  
   A landing page and platform to showcase our vision and activities.  
 
 ---
