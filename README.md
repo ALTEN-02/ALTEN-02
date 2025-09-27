@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](https://github.com/Bwizabusa/Web-development-learning-resources/blob/main/ATEH-banner.png)
 
 <!--
 **Bwizabusa/Bwizabusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
