@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/ALTEN/ALTEN/blob/main/ALTEN-banner.png)
+![Banner](https://github.com/ALTEN-02/ALTEN-02/blob/main/ALTEN-banner.png)
 
 # 🌍 African Learning & Tech Empowerment Network (ALTEN)
 
