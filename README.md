@@ -25,16 +25,16 @@ By connecting learners, migrants, refugees, and local communities through **digi
 ## 📌 Featured Repositories  
 Explore some of the initiatives under ALTEN:
 
-- [📘 **dev-learning-hub**](https://github.com/ALTEN/dev-learning-hub)  
+- [📘 **dev-learning-hub**](https://github.com/ALTEN-02/dev-learning-hub)  
   Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond.
 
-- [🤝 **community-projects**](https://github.com/ALTEN/community-projects)  
+- [🤝 **community-projects**](https://github.com/ALTEN-2/community-projects)  
   Collaborative open-source projects that empower learners to grow through practice.
 
-- [🚀 **career-growth-tools**](https://github.com/ALTEN/career-growth-tools)  
+- [🚀 **career-growth-tools**](https://github.com/ALTEN-2/career-growth-tools)  
   Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities.
 
-- [🌍 **ALTEN Platform**](https://github.com/ALTEN/alten-platform)  
+- [🌍 **ALTEN Platform**](https://github.com/ALTEN-2/alten-platform)  
   The main website showcases our programs, community, and impact across Africa.
 
 ---
@@ -44,7 +44,7 @@ We envision a **smarter and more human-centred African future**, where every ind
 
 ---
 
-💡 *Education + Technology + Humanity = Empowerment.*
+💡 *Education + Technology + **Humanity** = **Empowerment.***
 
 📫 **Connect with us:**  
 Follow our work, contribute to projects, or partner with us to expand ALTEN’s impact across Africa.  
