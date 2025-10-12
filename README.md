@@ -1,40 +1,52 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/Bwizabusa/Bwizabusa/blob/main/ATEH-banner-2.png)
+![Banner](https://github.com/ALTEN/ALTEN/blob/main/ALTEN-banner.png)
 
-# 🌍 African Tech Empowerment Hub  
+# 🌍 African Learning & Tech Empowerment Network (ALTEN)
 
-✨ Empowering communities across Africa through education, tech, and collaboration — creating career opportunities and positively impacting lives.  
+✨ The **African Learning & Tech Empowerment Network (ALTEN)** is a pan-African initiative dedicated to transforming education, technology, and migration into engines of inclusion and development.  
+
+By connecting learners, migrants, refugees, and local communities through **digital learning hubs**, **collaborative programs**, and **innovation-driven projects**, ALTEN empowers a new generation to learn, innovate, and contribute to Africa’s sustainable growth.
 
 ---
 
 ## 💡 Our Tagline  
-**“From code to careers — building growth as one community.”**  
+**“Building skills. Bridging cultures. Empowering a new African generation.”**
 
 ---
 
 ## 🔖 What We Do  
-- 📘 Share **learning resources** for beginners.  
-- 👩‍💻 Build **community projects** that empower and inspire.  
-- 🚀 Create **career growth tools** to support job readiness.  
-- 🌱 Foster **collaboration** for impact-driven tech solutions.  
+- 📘 Develop **open learning resources** and tutorials for beginners.  
+- 👩‍💻 Build **community-driven projects** that solve real-world problems.  
+- 🚀 Design **career and entrepreneurship programs** for youth empowerment.  
+- 🌱 Promote **inclusive digital innovation** and migration resilience.  
 
 ---
 
 ## 📌 Featured Repositories  
-Here are some of the projects we’re building together:  
+Explore some of the initiatives under ALTEN:
 
-- [📘 Learning Resources](https://github.com/Bwizabusa/dev-learning-hub)  
-  Articles, tutorials, and stories to help anyone start their tech journey — with a strong focus on web development and beyond.  
+- [📘 **dev-learning-hub**](https://github.com/ALTEN/dev-learning-hub)  
+  Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond.
 
-- [🤝 Community Projects](https://github.com/Bwizabusa/community-projects)  
-  Collaborative projects built with and for learners.  
+- [🤝 **community-projects**](https://github.com/ALTEN/community-projects)  
+  Collaborative open-source projects that empower learners to grow through practice.
 
-- [🚀 Career Growth Tools](https://github.com/Bwizabusa/career-growth-tools)  
-  Resources to prepare for jobs, interviews, and freelancing.  
+- [🚀 **career-growth-tools**](https://github.com/ALTEN/career-growth-tools)  
+  Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities.
 
-- [🌍 African Tech Empowerment Hub Platform](https://github.com/Bwizabusa/african-tech-empowerment-hub)  
-  A landing page and platform to showcase our vision and activities.  
+- [🌍 **ALTEN Platform**](https://github.com/ALTEN/alten-platform)  
+  The main website showcases our programs, community, and impact across Africa.
 
 ---
 
-💡 *Together, we believe education + tech = empowerment.*  
+## 🌐 Vision  
+We envision a **smarter and more human-centred African future**, where every individual — regardless of background or status — can access learning, innovate freely, and contribute to their community’s development.
+
+---
+
+💡 *Education + Technology + Humanity = Empowerment.*
+
+📫 **Connect with us:**  
+Follow our work, contribute to projects, or partner with us to expand ALTEN’s impact across Africa.  
+
+---
