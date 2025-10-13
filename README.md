@@ -3,50 +3,45 @@
 
 # 🌍 African Learning & Tech Empowerment Network (ALTEN)
 
-✨ The **African Learning & Tech Empowerment Network (ALTEN)** is a pan-African initiative dedicated to transforming education, technology, and migration into engines of inclusion and development.  
+✨ The **African Learning & Tech Empowerment Network (ALTEN)** is a pan-African initiative dedicated to transforming **education, technology, and migration** into engines of inclusion and development.
 
-By connecting learners, migrants, refugees, and local communities through **digital learning hubs**, **collaborative programs**, and **innovation-driven projects**, ALTEN empowers a new generation to learn, innovate, and contribute to Africa’s sustainable growth.
-
----
-
-## 💡 Our Tagline  
-**“Building skills. Bridging cultures. Empowering a new African generation.”**
+By connecting learners, migrants, refugees, and local communities through **digital learning hubs, mentorship programs,** and **innovation-driven projects**, ALTEN empowers a new generation to **learn, innovate, and contribute** to Africa’s sustainable growth.
 
 ---
 
-## 🔖 What We Do  
-- 📘 Develop **open learning resources** and tutorials for beginners.  
-- 👩‍💻 Build **community-driven projects** that solve real-world problems.  
-- 🚀 Design **career and entrepreneurship programs** for youth empowerment.  
-- 🌱 Promote **inclusive digital innovation** and migration resilience.  
+## 💡 Our Tagline
+> “Building skills. Bridging cultures. Empowering a new African generation.”
 
 ---
 
-## 📌 Featured Repositories  
-Explore some of the initiatives under ALTEN:
-
-- [📘 **dev-learning-hub**](https://github.com/ALTEN-02/dev-learning-hub)  
-  Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond.
-
-- [🤝 **community-projects**](https://github.com/ALTEN-2/community-projects)  
-  Collaborative open-source projects that empower learners to grow through practice.
-
-- [🚀 **career-growth-tools**](https://github.com/ALTEN-2/career-growth-tools)  
-  Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities.
-
-- [🌍 **ALTEN Platform**](https://github.com/ALTEN-2/alten-platform)  
-  The main website showcases our programs, community, and impact across Africa.
+## 🔖 What We Do
+- 📘 Develop open learning resources and tutorials for beginners.  
+- 👩‍💻 Build community-driven projects that solve real-world problems.  
+- 🚀 Design career and entrepreneurship programs for youth empowerment.  
+- 🌱 Promote inclusive digital innovation and migration resilience.  
 
 ---
 
-## 🌐 Vision  
-We envision a **smarter and more human-centred African future**, where every individual — regardless of background or status — can access learning, innovate freely, and contribute to their community’s development.
+## 📌 Featured Repositories
+Explore our open initiatives under ALTEN:
+
+| Repository | Description |
+|-------------|--------------|
+| [**dev-learning-hub**](../dev-learning-hub/README.md) | Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond. |
+| [**community-projects**](../community-projects/README.md) | Collaborative open-source projects that empower learners to grow through practice. |
+| [**career-growth-tools**](../career-growth-tools/README.md) | Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities. |
 
 ---
 
-💡 *Education + Technology + **Humanity** = **Empowerment.***
+## 🌐 Vision
+We envision a **human-centered African future**, where every individual — regardless of background or status — can **access learning, innovate freely, and contribute** to their community’s development.
 
-📫 **Connect with us:**  
-Follow our work, contribute to projects, or partner with us to expand ALTEN’s impact across Africa.  
+💡 *Education + Technology + Humanity = Empowerment.*
 
 ---
+
+## 🤝 Get Involved
+Join us as a **mentor, learner, or contributor** and grow your impact with ALTEN.  
+Follow our work, contribute to projects, or partner with us to expand ALTEN’s reach across Africa.  
+
+> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](../dev-learning-hub/README.md)
