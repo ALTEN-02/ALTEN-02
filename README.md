@@ -45,13 +45,13 @@ Join us as a **mentor, learner, or contributor** and grow your impact with ALTEN
 Follow our work, contribute to projects, or partner with us to expand ALTEN’s reach across Africa.  
 
 
-> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](https://github.com/ALTEN-02/dev-learning-hub)
+> 📫 [Join the ALTEN Network](https://github.com/ALTEN-02/ALTEN-02/tree/main/onboarding) or [Visit the Dev Learning Hub](https://github.com/ALTEN-02/dev-learning-hub)
 
 > ## 🪩 Join the Community
 
 Ready to be part of ALTEN?  
 Start by introducing yourself and creating your learning journal:
 
-➡️ [Introduce Yourself to the ALTEN Community](https://github.com/ALTEN-02/onboarding/introduce-yourself.md)
+➡️ [Introduce Yourself to the ALTEN Community](https://github.com/ALTEN-02/ALTEN-02/tree/main/onboardingintroduce-yourself.md)
 
 
