@@ -45,7 +45,7 @@ Join us as a **mentor, learner, or contributor** and grow your impact with ALTEN
 Follow our work, contribute to projects, or partner with us to expand ALTEN’s reach across Africa.  
 
 
-> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](https://github.com/ALTEN-02/dev-learning-hub/README.md)
+> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](https://github.com/ALTEN-02/dev-learning-hub)
 
 > ## 🪩 Join the Community
 
