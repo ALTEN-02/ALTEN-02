@@ -27,7 +27,7 @@ Explore our open initiatives under ALTEN:
 
 | Repository | Description |
 |-------------|--------------|
-| [**dev-learning-hub**](./dev-learning-hub/README.md) | Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond. |
+| [**dev-learning-hub**](https://github.com/ALTEN-02/dev-learning-hub/README.md) | Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond. |
 | [**community-projects**](../community-projects/README.md) | Collaborative open-source projects that empower learners to grow through practice. |
 | [**career-growth-tools**](../career-growth-tools/README.md) | Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities. |
 
@@ -44,11 +44,11 @@ We envision a **human-centered African future**, where every individual — rega
 Join us as a **mentor, learner, or contributor** and grow your impact with ALTEN.  
 Follow our work, contribute to projects, or partner with us to expand ALTEN’s reach across Africa.  
 
-> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](../dev-learning-hub/README.md)
+> 📫 [Join the ALTEN Network](#) or [Visit the Dev Learning Hub](https://github.com/ALTEN-02/dev-learning-hub/README.md)
 > ## 🪩 Join the Community
 
 Ready to be part of ALTEN?  
 Start by introducing yourself and creating your learning journal:
 
-➡️ [Introduce Yourself to the ALTEN Community](./onboarding/introduce-yourself.md)
+➡️ [Introduce Yourself to the ALTEN Community](https://github.com/ALTEN-02/onboarding/introduce-yourself.md)
 
