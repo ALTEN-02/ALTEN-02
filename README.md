@@ -52,6 +52,6 @@ Follow our work, contribute to projects, or partner with us to expand ALTEN’s 
 Ready to be part of ALTEN?  
 Start by introducing yourself and creating your learning journal:
 
-➡️ [Introduce Yourself to the ALTEN Community](https://github.com/ALTEN-02/ALTEN-02/tree/main/onboardingintroduce-yourself.md)
+➡️ [Introduce Yourself to the ALTEN Community](https://github.com/ALTEN-02/ALTEN-02/tree/main/onboarding/introduce-yourself.md)
 
 
