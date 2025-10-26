@@ -27,7 +27,7 @@ Explore our open initiatives under ALTEN:
 
 | Repository | Description |
 |-------------|--------------|
-| [**dev-learning-hub**](https://github.com/ALTEN-02/dev-learning-hub/README.md) | Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond. |
+| [**dev-learning-hub**](https://github.com/ALTEN-02/dev-learning-hub) | Your open hub for digital learning — tutorials, articles, and hands-on projects in web development and beyond. |
 | [**community-projects**](../community-projects/README.md) | Collaborative open-source projects that empower learners to grow through practice. |
 | [**career-growth-tools**](../career-growth-tools/README.md) | Resources and tools designed to prepare learners for freelancing, jobs, and leadership opportunities. |
 
